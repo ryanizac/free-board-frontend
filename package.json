@@ -1,0 +1,17 @@
+{
+  "name": "free-board-frontend",
+  "version": "1.0.0",
+  "description": "A free board",
+  "keywords": [
+    "Board",
+    "drag",
+    "drop",
+    "react"
+  ],
+  "author": {
+    "name": "Ryan Izac",
+    "email": "io.ryan@outlook.com",
+    "url": "http://ryanizac.com.br/"
+  },
+  "license": "MIT"
+}
